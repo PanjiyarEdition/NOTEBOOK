@@ -1,0 +1,9 @@
+Database name 
+	notebook
+
+User: 
+	Gmail - panjiyar@gmail.com
+	 Pass - 12345
+
+	Gmail - jigar@gmail.com
+	 Pass - 12345

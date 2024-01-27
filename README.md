@@ -1,6 +1,6 @@
 <h1> NOTEBOOK </h1>
 
-User Authentication:
+**User Authentication:**
 •	Implemented a secure user authentication system with a login/signup functionality for account creation.
 
 Note Management:

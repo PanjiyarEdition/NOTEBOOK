@@ -3,7 +3,7 @@
 **User Authentication:**
 •	Implemented a secure user authentication system with a login/signup functionality for account creation.
 
-Note Management:
+**Note Management:**
 •	Developed a comprehensive note management system, allowing users to create notes with titles and descriptions.
 •	Enabled users to easily update or delete their notes, providing flexibility in organizing information.
 

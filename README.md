@@ -7,7 +7,7 @@
 •	Developed a comprehensive note management system, allowing users to create notes with titles and descriptions.
 •	Enabled users to easily update or delete their notes, providing flexibility in organizing information.
 
-User-Friendly Interface:
+**User-Friendly Interface:**
 •	Designed a user-friendly and responsive website to enhance the overall user experience.
 
 Technologies/Tools Used:

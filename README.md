@@ -10,7 +10,7 @@
 **User-Friendly Interface:**
 •	Designed a user-friendly and responsive website to enhance the overall user experience.
 
-Technologies/Tools Used:
+**Technologies/Tools Used:**
 •	Utilized HTML, CSS, Bootstrap, JavaScript, and MySQL to create a robust and visually appealing website
 
 Achievements:

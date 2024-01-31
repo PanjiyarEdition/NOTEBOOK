@@ -17,6 +17,3 @@ Achievements:
 •	Streamlined the note management process, empowering users to organize and modify their notes effortlessly.
 •	Enhanced user experience through a responsive design, ensuring seamless access across different devices.
 
-GitHub Repository:
-•	Shared the project code on GitHub for review: [Link to GitHub]
-

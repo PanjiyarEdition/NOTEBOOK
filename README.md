@@ -13,7 +13,5 @@
 **Technologies/Tools Used:**
 •	Utilized HTML, CSS, Bootstrap, JavaScript, and MySQL to create a robust and visually appealing website
 
-Achievements:
-•	Streamlined the note management process, empowering users to organize and modify their notes effortlessly.
-•	Enhanced user experience through a responsive design, ensuring seamless access across different devices.
+
 
